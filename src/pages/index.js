@@ -10,6 +10,9 @@ const IndexPage = () => {
     <Layout pageTitle="Home Page">
       <h1>HELLO WORLD</h1>
       <p>I'm making this by following the Gatsby Tutorial.</p>
+      <p>201080200188 Ahmad Irfan Masaid</p>
+      <p>201080200208 Daffa Maha Putra M.</p>
+      <p>201080200105 M. Alfian Nur Hidayat</p>
       <StaticImage
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
         src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
