@@ -23,6 +23,16 @@ const Layout = ({ pageTitle, children }) => {
                             Author
                         </Link>
                     </li>
+                    <li className={navLinkItem}>
+                        <Link to="/read-csv" className={navLinkText}>
+                            CSV
+                        </Link>
+                    </li>
+                    <li className={navLinkItem}>
+                        <Link to="/crud" className={navLinkText}>
+                            CRUD
+                        </Link>
+                    </li>
                 </ul>
             </nav>
             <main>
